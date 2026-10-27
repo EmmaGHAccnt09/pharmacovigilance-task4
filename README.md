@@ -50,3 +50,7 @@ An Adverse Event is classified as **SERIOUS** if it meets any of the following c
 * **Evaluator Name:** Emmalyn Chua Mondano-Mariquit  
 * **Professional Qualification:** Registered Pharmacist (RPh) / Healthcare Virtual Assistant Intern  
 * **Date of Assessment:** October 26, 2026
+
+  Portfolio Disclosure
+This repository contains my own work, completed as part of my pharmacovigilance learning activities. The exercise demonstrates my understanding of the assigned topic and my ability to research, analyze, and document relevant information.
+This is an educational exercise and does not represent actual patient-care activities or professional employment. Any case examples are for learning purposes only.
